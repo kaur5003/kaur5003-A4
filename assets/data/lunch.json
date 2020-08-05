@@ -1,0 +1,8 @@
+{
+    "lunch":
+    [
+        {"NameOfFood": "Rice","price":11.65,"calories":218},
+        {"NameOfFood": "snacks","price":2.85,"calories":30},
+        {"NameOfFood": "Tea","price":8.85,"calories":1.66}
+    ]
+}

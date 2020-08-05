@@ -1,0 +1,8 @@
+{
+    "breakfast":
+    [
+        {"NameOfFood": "BrownBread","price":2.76,"calories":313},
+        {"NameOfFood": "Coffee","price":1.85,"calories":30},
+        {"NameOfFood": "Cereal","price":8.85,"calories":379}
+    ]
+}
